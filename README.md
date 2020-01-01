@@ -1,0 +1,21 @@
+# RF codes
+ - `UP:    FF629D`
+ - `LEFT:  FF22DD`
+ - `DOWN:  FFA857`
+ - `RIGHT: FFC23D`
+---
+ - `OK:    FF02FD`
+---
+ - `1:     FF6897`
+ - `2:     FF9867`
+ - `3:     FFB04F`
+ - `4:     FF30CF`
+ - `5:     FF18E7`
+ - `6:     FF7A85`
+ - `7:     FF10EF`
+ - `8:     FF38C7`
+ - `9:     FF5AA5`
+ - `0:     FF4AB5`
+ - `*:     FF42BD`
+ - `#:     FF52AD`
+ 
